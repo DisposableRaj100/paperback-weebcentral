@@ -1,0 +1,15 @@
+{
+  "name": "My Paperback Repo",
+  "version": "1.0.0",
+  "sources": [
+    {
+      "id": "weebcentral",
+      "name": "WeebCentral",
+      "description": "Manga source",
+      "author": "you",
+      "icon": "icon.png",
+      "version": "1.0.0",
+      "file": "sources/weebcentral/index.js"
+    }
+  ]
+}

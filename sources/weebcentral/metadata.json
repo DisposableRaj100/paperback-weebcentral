@@ -1,0 +1,9 @@
+{
+  "id": "weebcentral",
+  "name": "WeebCentral",
+  "version": "1.0.0",
+  "lang": "en",
+  "baseUrl": "",
+  "description": "Manga source",
+  "nsfw": false
+}
